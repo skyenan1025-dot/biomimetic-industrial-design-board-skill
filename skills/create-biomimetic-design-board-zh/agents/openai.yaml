@@ -1,0 +1,6 @@
+interface:
+  display_name: "仿生工业设计展板（中文版）"
+  short_description: "生成完整A3仿生工业设计推演流程与产品渲染展示版面"
+  default_prompt: "使用 $create-biomimetic-design-board-zh，将我输入的生物转化为A3仿生工业设计流程展板。"
+policy:
+  allow_implicit_invocation: true
