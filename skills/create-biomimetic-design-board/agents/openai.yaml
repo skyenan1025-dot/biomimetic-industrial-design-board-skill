@@ -1,0 +1,6 @@
+interface:
+  display_name: "Biomimetic Industrial Design Board"
+  short_description: "Create complete A3 biomimetic design-process boards"
+  default_prompt: "Use $create-biomimetic-design-board to turn my biological inspiration into an A3 industrial-design process board."
+policy:
+  allow_implicit_invocation: true
